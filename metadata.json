@@ -1,0 +1,9 @@
+{
+    "name": "tp_batterysaver",
+    "uuid": "tp_batterysaver@gistart",
+    "url": "https://github.com/gistart/tp_batterysaver",
+    "description": "Set charging threshold to prolong battery life, quickly revert to full via aggregate menu.",
+    "shell-version": [
+        "42"
+    ]
+}
