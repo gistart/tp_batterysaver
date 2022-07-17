@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.tp_batterysaver" path="/org/gnome/shell/extensions/tp_batterysaver/">
+        <key name="bat0-thr-end" type="i">
+            <default>75</default>
+        </key>
+    </schema>
+</schemalist>
